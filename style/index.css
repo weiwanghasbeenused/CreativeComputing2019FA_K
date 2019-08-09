@@ -1,0 +1,118 @@
+@font-face{
+	font-family:"g_b";
+	src:url(../media/font/Gotham-Book.otf);
+}
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	width:80vw;
+	/*box-sizing:border-box;*/
+	padding:0.5vw 0 5vw 0;
+	margin:0 10vw;
+}
+h1{
+	font-weight: normal;
+	font-size: 15vw;
+	line-height: 0.9em;
+	-webkit-transition: -webkit- all .35s; /* Safari */
+  	transition: all .35s;
+}
+h2{
+	font-weight: normal;
+	font-size: 2vw;
+	line-height: 1.1em;
+}
+h3{	
+	font-family: 'g_b',sans-serif;
+	font-size: 2vw;
+	line-height: 1.5em;
+}
+a{
+	color:black;
+}
+.laptop a:hover{
+	color:rgba(255, 80, 80, 1);
+}
+.nav{
+	top:1.5vw;
+	position:fixed;
+	border-bottom: 1.5px solid black;
+	width:80vw;
+	padding-bottom: 3vw;
+	background-color: white;
+	-webkit-transition: -webkit- transform .5s, height .5s; /* Safari */
+  	transition: transform .5s, height .5s;
+  	transform-origin:0 0;
+  	height: 30vw;
+}
+.nav>div{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.courseTitle{
+	width:25%;
+	margin-right: 50vw;
+	-webkit-transition: -webkit- transform .5s; /* Safari */
+  	transition: transform .5s;
+  	transform-origin:0 0;
+}
+.k{
+	color:rgba(255, 80, 80, 1);
+}
+.courseLink{
+	animation:0.75s linkFadeIn2;
+}
+.shrink h1{
+	font-size: 2vw;
+	line-height: 1.1em;
+}
+.shrink .courseTitle{
+	margin-right: 30vw;	
+}
+.shrink .courseLink{
+	animation:1s linkFadeIn;
+}
+.shrink .courseLink>div{
+	display: inline-block;
+	margin-right: 2vw;
+}
+
+div.shrink {
+	height:0.5vw;
+}
+
+.ctner{
+	padding-top: 37.5vw;
+}
+.ctners{
+	margin-bottom: 5vw;
+}
+.classInfo{}
+.scheduleRow{
+	width:100%;
+}
+.scheduleItem{
+	display: inline-block;
+}
+.week{
+	width:6%;
+}
+.date{
+	width:10%;
+}
+.doing{
+	width:60%;
+}
+
+@keyframes linkFadeIn2 {
+  	from { opacity: 0; }
+  	to   { opacity: 1; }
+}
+@keyframes linkFadeIn {
+	0%{opacity: 0;}
+  	50% { opacity: 0; }
+  	100%   { opacity: 1; }
+}

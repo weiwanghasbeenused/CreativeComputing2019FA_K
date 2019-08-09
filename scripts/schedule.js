@@ -1,0 +1,43 @@
+var data_schedule = [
+{
+	'week':'1.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'2.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'3.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'4.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'5.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'6.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'7.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'8.',
+	'date':'8/27',
+	'doing':'intro',
+	'toDo':'TBA'
+}
+];
