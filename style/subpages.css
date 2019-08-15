@@ -54,6 +54,8 @@ h3{
 	padding:0.5vw 1vw 1.5vw 1vw;
 	vertical-align: top;
 	background-color: white;
+	-webkit-transition: -webkit- transform .25s; /* Safari */
+  	transition: transform .25s;
 
 }
 .contentItems:nth-of-type(3n){
@@ -77,4 +79,7 @@ h3{
 }
 .itemTitle{
 	margin-top: 1vw;
+}
+.laptop .contentItems:hover{
+	transform: translate(0, -1vw);
 }

@@ -1,19 +1,20 @@
 var data_reading = [
 {
-	'infoOne':'Paul Ford',
-	'infoTwo':'2015',
+	'infoOne':'Viktor Shklovsky',
+	'infoTwo':'1917',
 	'title':'Art as Technique',
 	'hyperLink':'media/resource/reading/Art_as_Technique_shklovsky.pdf'
+},{
+	
+	'infoOne':'Guy Debord',
+	'infoTwo':'1958',
+	'title':'Theory of D&#x000E9;rive',
+	'hyperLink':'media/resource/reading/TheoryOfDerive.pdf'
 },{
 	'infoOne':'Paul Ford',
 	'infoTwo':'2015',
 	'title':'What Is Code?',
 	'hyperLink':'https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/'
-},{
-	'infoOne':'3',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
 },{
 	'infoOne':'4',
 	'infoTwo':'8/27',

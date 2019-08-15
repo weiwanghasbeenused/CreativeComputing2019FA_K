@@ -1,42 +1,82 @@
 var data_schedule = [
 {
-	'week':'1.',
+	'week':'1',
 	'date':'8/27',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'2.',
-	'date':'8/27',
+	'week':'2',
+	'date':'9/3',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'3.',
-	'date':'8/27',
+	'week':'3',
+	'date':'9/10',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'4.',
-	'date':'8/27',
+	'week':'4',
+	'date':'9/17',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'5.',
-	'date':'8/27',
+	'week':'5',
+	'date':'9/24',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'6.',
-	'date':'8/27',
+	'week':'6',
+	'date':'10/1',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'7.',
-	'date':'8/27',
+	'week':'7',
+	'date':'10/8',
 	'doing':'intro',
 	'toDo':'TBA'
 },{
-	'week':'8.',
-	'date':'8/27',
+	'week':'8',
+	'date':'10/15',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'9',
+	'date':'10/22',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'10',
+	'date':'10/29',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'11',
+	'date':'11/5',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'12',
+	'date':'11/12',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'13',
+	'date':'11/19',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'14',
+	'date':'11/26',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'15',
+	'date':'12/3',
+	'doing':'intro',
+	'toDo':'TBA'
+},{
+	'week':'16',
+	'date':'12/10',
 	'doing':'intro',
 	'toDo':'TBA'
 }

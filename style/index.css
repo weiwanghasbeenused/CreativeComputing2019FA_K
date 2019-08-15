@@ -132,18 +132,44 @@ div.shrink {
 .classInfo{}
 .scheduleRow{
 	width:100%;
+	border-top: 1px solid black;
+	padding: 1vw 0;
+}
+.scheduleRow div{
+	
 }
 .scheduleItem{
 	display: inline-block;
 }
 .week{
-	width:6%;
+	width:7%;
+	padding-left: 1.2vw;
+}
+.week h3{
+	font-size: 1.2vw;
 }
 .date{
-	width:10%;
+	width:7%;
+}
+.date h3{
+	font-size: 1.2vw;
 }
 .doing{
 	width:60%;
+	border-right: 1px solid black;
+	margin-right: 1vw;
+	box-sizing:border-box;
+}
+.thisWeek .week h3{
+	line-height: 1em;
+	font-size: 3.5vw;
+	color: rgba(255, 80, 80, 1);
+	margin-left: -0.5vw;
+
+	/*margin-top: 0.5vw;*/
+}
+.thisWeek .week{
+	/*baseline-shift:50px;*/
 }
 
 @keyframes linkFadeInTwo {
