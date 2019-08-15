@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<title>Lecture | Creative Computaing 2019FA K</title>
+	</head>
+		<link href="style/index.css" rel="stylesheet">
+		<link href="style/subpages.css" rel="stylesheet">
+		<script src = 'scripts/library/jquery.min.js'></script>
+		<script src = 'scripts/schedule.js'></script>
+	<body class = 'laptop'>
+		<div class = 'nav mainNav'>
+			<div class = 'courseTitle navItem'><h1><a href = 'index.html' target = '_self'>Creative Computing<span class = 'k'>&#119974;</span></a></h1></div>
+			<div>
+				<div class = 'courseLink navItem'>
+					<div class = 'btn'><h2><a>Syllabus</a></h2></div>
+					<div class = 'btn btn_resource'><h2><a>Recources</a></h2>
+						<div class = 'dropDown dropDownFrame recourceDropDown'>
+							<div class = 'dropDown dropDownBody'>
+								<div><h2><a href = '' target = '_self'>lecture</a></h2></div>
+								<div><h2><a href = 'reading.html' target = '_self'>reading</a></h2></div>
+								<div><h2><a href = 'coding.html' target = '_self'>coding</a></h2></div>
+								<div><h2><a href = 'reference.html' target = '_self'>references</a></h2></div>
+							</div>
+						</div>
+					</div>
+					<div class = 'btn'><h2><a>Students</a></h2></div>
+				</div>
+			</div>
+		</div>
+		<div class = 'navTwo'>
+			<div class = 'sectionTitle'><h1>Lecture</h1></div>
+		</div>
+		<div class = 'ctner'>
+			
+			<div class = 'contentCtner'>
+			</div>
+		</div>
+		<script src = 'scripts/lecture.js'></script>
+		<script src = 'scripts/resources.js'></script>
+		<script>
+			for(i = 0;i<data_lecture.length;i++){
+				$('.contentCtner').append('<div class = "contentItems"><a href = "'+data_lecture[i].hyperLink+'" target = "_blank"><div class = "info_content"><h4>w'+data_lecture[i].infoOne+'</h4></div><div class = "info_content"><h4>'+data_lecture[i].infoTwo+'</h4></div><div class = "itemTitle"><h3>'+data_lecture[i].title+'</h3></div></a></div>');
+			}
+		</script>
+	</body>
+
+</html>

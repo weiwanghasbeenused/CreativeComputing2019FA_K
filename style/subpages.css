@@ -1,0 +1,80 @@
+h1{
+	font-size: 2vw;
+	line-height: 1.1em;
+}
+h3{
+	line-height: 1.2em;
+}
+
+.nav{
+	
+  	height:0.5vw;
+}
+.nav>div{
+	display: inline-block;
+	vertical-align: top;
+}
+.navTwo{
+	top:5vw;
+	position: fixed;
+	z-index: 5;
+}
+
+
+.courseTitle{
+	margin-right: 30vw;	
+	
+}
+
+
+.courseLink>div{
+	display: inline-block;
+	margin-right: 2vw;
+}
+
+.sectionTitle h1{
+	font-size:8vw;
+}
+
+.ctner{
+	padding-top: 12.5vw;
+	position: relative;
+	z-index: 10;
+}
+.contentCtner{
+	margin-top: 1.5vw;
+}
+.contentItems{
+	box-sizing:border-box;
+	width:31.25%;
+	min-height:20vh;
+	display: inline-block;
+	border:1px black solid;
+	margin:0 2vw 2vw 0;
+	padding:0.5vw 1vw 1.5vw 1vw;
+	vertical-align: top;
+	background-color: white;
+
+}
+.contentItems:nth-of-type(3n){
+	margin-right:0;
+}
+
+.laptop .contentItems:hover{
+	cursor: pointer;
+	/*background-color: rgba(255, 80, 80, 1);*/
+}
+.laptop .contentItems:hover a{
+	color: rgba(255, 80, 80, 1);
+}
+.info_content{
+	display: inline-block;
+	text-align: right;
+	width:50%;
+}
+.info_content:first-of-type{
+	text-align: left;
+}
+.itemTitle{
+	margin-top: 1vw;
+}

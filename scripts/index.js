@@ -28,3 +28,6 @@ $(window).scroll(function(){
 		}
 	}
 });
+
+$('.dropDownFrame').css('width',parseInt($('.dropDownBody').css('width'))+0.025*wW+'px');
+$('.dropDownFrame').css('height',$('.dropDownBody').css('height'));

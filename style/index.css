@@ -29,23 +29,35 @@ h3{
 	font-size: 2vw;
 	line-height: 1.5em;
 }
+h4{
+	font-family: 'g_b',sans-serif;
+	font-size: 1vw;
+	line-height: 1.5em;
+}
 a{
 	color:black;
+	cursor:pointer;
+	text-decoration: none;
+}
+.active a{
+	color:rgba(255, 80, 80, 1);
 }
 .laptop a:hover{
 	color:rgba(255, 80, 80, 1);
+
 }
 .nav{
-	top:1.5vw;
+	top:0vw;
 	position:fixed;
 	border-bottom: 1.5px solid black;
 	width:80vw;
-	padding-bottom: 3vw;
+	padding: 1.5vw 0 3vw 0;
 	background-color: white;
 	-webkit-transition: -webkit- transform .5s, height .5s; /* Safari */
   	transition: transform .5s, height .5s;
   	transform-origin:0 0;
   	height: 30vw;
+  	z-index: 15;
 }
 .nav>div{
 	display: inline-block;
@@ -63,7 +75,7 @@ a{
 	color:rgba(255, 80, 80, 1);
 }
 .courseLink{
-	animation:0.75s linkFadeIn2;
+	animation:0.75s linkFadeInTwo;
 }
 .shrink h1{
 	font-size: 2vw;
@@ -83,7 +95,34 @@ a{
 div.shrink {
 	height:0.5vw;
 }
+.dropDownFrame{
+	position: absolute;
+	overflow:hidden;
+	max-height: 0;
+	/*padding:0 0 0.5vw 1vw;*/
+	margin-left: 1vw;
+}
+.dropDownBody{
+	-webkit-transition: -webkit- top .5s; /* Safari */
+  	transition: top .15s;
+	position: absolute;
+	top:-200px;
+	background-color: white;
+	border-left: 2px solid black;
+	padding: 0 0.5vw 1vw 0.5vw;
+	background-color: rgba(240, 240, 240, 1);
 
+	/*background-color: rgba(230,230,230,1);*/
+}
+.dropDownBody > div{
+	padding-bottom: 0.25vw;
+}
+.btn_resource:hover .dropDownFrame{
+	max-height: none;
+}
+.btn_resource:hover .dropDownBody{
+	top:0;
+}
 .ctner{
 	padding-top: 37.5vw;
 }
@@ -107,7 +146,7 @@ div.shrink {
 	width:60%;
 }
 
-@keyframes linkFadeIn2 {
+@keyframes linkFadeInTwo {
   	from { opacity: 0; }
   	to   { opacity: 1; }
 }

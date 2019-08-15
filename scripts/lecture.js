@@ -1,0 +1,83 @@
+var data_lecture = [
+{
+	'infoOne':'1',
+	'infoTwo':'8/27',
+	'title':'Creative & </br>Computing',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'2',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'3',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'4',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'5',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'6',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'7',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'8',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'9',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'10',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'11',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'12',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'13',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'14',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'15',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+},{
+	'infoOne':'16',
+	'infoTwo':'8/27',
+	'title':'intro',
+	'hyperLink':'TBA'
+}
+];
