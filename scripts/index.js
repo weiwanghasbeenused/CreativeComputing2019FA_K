@@ -19,6 +19,7 @@ for(i = 0; i<data_schedule.length;i++){
 		pTempD = data_schedule[i-1].date;
 		pTempD = parseInt(pTempD.slice(pTempD.indexOf('/')+1));
 		pTempM = parseInt(pTempM.slice(0,pTempM.indexOf('/')));
+		console.log(i, pTempM,pTempD);
 	}else{
 		var pTempM = 0,
 		pTempD = 0;

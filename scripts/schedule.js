@@ -1,7 +1,7 @@
 var data_schedule = [
 {
 	'week':'1',
-	'date':'8/27',
+	'date':'1/3',
 	'doing':'intro',
 	'toDo':'TBA'
 },{

@@ -16,8 +16,8 @@
 						<div class = 'dropDown dropDownFrame recourceDropDown'>
 							<div class = 'dropDown dropDownBody'>
 								<div><h2><a href = 'lecture.html' target = '_self'>lecture</a></h2></div>
-								<div><h2><a href = '' target = '_self'>reading</a></h2></div>
-								<div><h2><a href = '' target = '_self'>link</a></h2></div>
+								<div><h2><a href = 'reading.html' target = '_self'>reading</a></h2></div>
+								<div><h2><a href = 'coding.html' target = '_self'>coding</a></h2></div>
 								<div><h2><a href = '' target = '_self'>references</a></h2></div>
 							</div>
 						</div>
@@ -35,7 +35,7 @@
 		<script src = 'scripts/resources.js'></script>
 		<script>
 			for(i = 0;i<data_reading.length;i++){
-				$('.contentCtner').append('<div class = "contentItems"><a href = "'+data_reading[i].hyperLink+'" target = "_blank"><div class = "info_content"><h4>'+data_reading[i].infoOne+'</h4></div><div class = "info_content"><h4>'+data_reading[i].infoTwo+'</h4></div><div class = "itemTitle"><h3>'+data_reading[i].title+'</h3></div></a></div>');
+				$('.contentCtner').append('<a class = "contentItems" href = "'+data_reading[i].hyperLink+'" target = "_blank"><div class = ""><div class = "info_content"><h4>'+data_reading[i].infoOne+'</h4></div><div class = "info_content"><h4>'+data_reading[i].infoTwo+'</h4></div><div class = "itemTitle"><h3>'+data_reading[i].title+'</h3></div></div></a>');
 			}
 		</script>
 	</body>

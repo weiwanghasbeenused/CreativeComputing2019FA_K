@@ -10,6 +10,10 @@ h3{
 	
   	height:0.5vw;
 }
+a{
+	display: inline-block;
+	/*height:auto;*/
+}
 .nav>div{
 	display: inline-block;
 	vertical-align: top;
@@ -47,7 +51,7 @@ h3{
 .contentItems{
 	box-sizing:border-box;
 	width:31.25%;
-	min-height:20vh;
+	min-height:15vh;
 	display: inline-block;
 	border:1px black solid;
 	margin:0 2vw 2vw 0;
@@ -82,4 +86,30 @@ h3{
 }
 .laptop .contentItems:hover{
 	transform: translate(0, -1vw);
+}
+.linkCato{
+	width:100%;
+	margin-bottom: 2vw;
+	/*border-bottom: 1px solid black;*/
+}
+.linkCatoTitle{
+	width:14%;
+	/*margin-right: 2vw;*/
+	box-sizing:border-box;
+	padding-right:1.2vw;
+	/*border-bottom: 1px solid black;*/
+}
+.linkCato>div{
+	vertical-align: top;
+	display: inline-block;
+}
+.listItems{
+	display: block;
+	width:100%;
+}
+.linkCatoItem{
+
+	margin-bottom: 1vw;
+	margin-bottom:;
+	
 }

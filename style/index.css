@@ -31,13 +31,22 @@ h3{
 }
 h4{
 	font-family: 'g_b',sans-serif;
-	font-size: 1vw;
+	font-size: 1.2vw;
 	line-height: 1.5em;
+}
+h5{	
+	font-family: 'g_b',sans-serif;
+	font-size: 2.5vw;
+}
+h6{
+	font-family: 'g_b',sans-serif;
+	font-size: 1.25vw;
 }
 a{
 	color:black;
 	cursor:pointer;
 	text-decoration: none;
+
 }
 .active a{
 	color:rgba(255, 80, 80, 1);
@@ -136,7 +145,7 @@ div.shrink {
 	padding: 1vw 0;
 }
 .scheduleRow div{
-	
+
 }
 .scheduleItem{
 	display: inline-block;
