@@ -36,12 +36,22 @@ a{
 	margin-right: 2vw;
 }
 
+.sectionInfo >div{
+	/*display: inline-block;*/
+	width:49%;
+	vertical-align: top;
+}
+
 .sectionTitle h1{
 	font-size:8vw;
 }
+.sectionIntro{
+	margin-top: 1vw;
+	/*width:50%;*/
+}
 
 .ctner{
-	padding-top: 12.5vw;
+	padding-top: 6vw;
 	position: relative;
 	z-index: 10;
 }
@@ -88,12 +98,15 @@ a{
 	transform: translate(0, -1vw);
 }
 .linkCato{
-	width:100%;
+	/*width:100%;*/
+	display: inline-block;
 	margin-bottom: 2vw;
+	width:50%;
+	box-sizing:border-box;
 	/*border-bottom: 1px solid black;*/
 }
 .linkCatoTitle{
-	width:14%;
+	width:25%;
 	/*margin-right: 2vw;*/
 	box-sizing:border-box;
 	padding-right:1.2vw;

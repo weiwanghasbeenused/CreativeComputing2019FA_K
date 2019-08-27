@@ -1,6 +1,5 @@
 @font-face{
-	font-family:"g_b";
-	src:url(../media/font/Gotham-Book.otf);
+	font-family:'Nunito Sans', sans-serif;./media/font/Gotham-Book.otf);
 }
 *{
 	padding:0;
@@ -25,21 +24,25 @@ h2{
 	line-height: 1.1em;
 }
 h3{	
-	font-family: 'g_b',sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: normal;
 	font-size: 2vw;
-	line-height: 1.5em;
+	line-height: 3vw;
 }
 h4{
-	font-family: 'g_b',sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: normal;
 	font-size: 1.2vw;
 	line-height: 1.5em;
 }
 h5{	
-	font-family: 'g_b',sans-serif;
-	font-size: 2.5vw;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: normal;
+	font-size: 2vw;
 }
 h6{
-	font-family: 'g_b',sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: normal;
 	font-size: 1.25vw;
 }
 a{
@@ -75,7 +78,7 @@ a{
 
 .courseTitle{
 	width:25%;
-	margin-right: 50vw;
+	margin-right: 47vw;
 	-webkit-transition: -webkit- transform .5s; /* Safari */
   	transition: transform .5s;
   	transform-origin:0 0;
@@ -91,7 +94,7 @@ a{
 	line-height: 1.1em;
 }
 .shrink .courseTitle{
-	margin-right: 30vw;	
+	margin-right: 27vw;	
 }
 .shrink .courseLink{
 	animation:1s linkFadeIn;
@@ -145,7 +148,7 @@ div.shrink {
 	padding: 1vw 0;
 }
 .scheduleRow div{
-
+	vertical-align: top;
 }
 .scheduleItem{
 	display: inline-block;
@@ -154,17 +157,15 @@ div.shrink {
 	width:7%;
 	padding-left: 1.2vw;
 }
-.week h3{
-	font-size: 1.2vw;
-}
 .date{
 	width:7%;
 }
-.date h3{
+.date h3, .week h3{
 	font-size: 1.2vw;
+	padding-top:0.25vw;
 }
 .doing{
-	width:60%;
+	width:45%;
 	border-right: 1px solid black;
 	margin-right: 1vw;
 	box-sizing:border-box;
@@ -179,6 +180,13 @@ div.shrink {
 }
 .thisWeek .week{
 	/*baseline-shift:50px;*/
+}
+
+::-moz-selection { 
+	background: rgba(0,220,220,1); 
+}
+::selection { 
+	background: rgba(0,220,220,1); 
 }
 
 @keyframes linkFadeInTwo {

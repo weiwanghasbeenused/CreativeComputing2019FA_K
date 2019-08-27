@@ -5,7 +5,7 @@ var status_nav = 0;
 var tempTitle = ['<h1>Creative</br>Computing</h1>','<h2>Creative Computing</h2>'];
 
 var d = new Date();
-var mm = d.getMonth();
+var mm = d.getMonth()+1;
 var dd = d.getDate();
 
 for(i = 0; i<data_schedule.length;i++){
@@ -19,14 +19,23 @@ for(i = 0; i<data_schedule.length;i++){
 		pTempD = data_schedule[i-1].date;
 		pTempD = parseInt(pTempD.slice(pTempD.indexOf('/')+1));
 		pTempM = parseInt(pTempM.slice(0,pTempM.indexOf('/')));
-		console.log(i, pTempM,pTempD);
 	}else{
-		var pTempM = 0,
+		var pTempM = 8,
 		pTempD = 0;
 	}
+	console.log(mm, dd);
+	console.log('tempD = '+tempD,' tempM = '+tempM,);
+	console.log('pTempD = '+pTempD,' pTempM = '+pTempM);
 	
-	if(mm>=pTempM&&mm<=tempM&&dd>=pTempD&&dd<=tempD){
-		$('.scheduleCtner').append('<div class = "thisWeek scheduleRow"><div class = "week scheduleItem"><h3>&#9758;</h3></div><div class = "date scheduleItem"><h3>'+data_schedule[i].date+'</h3></div><div class = "doing scheduleItem"><h3>'+data_schedule[i].doing+'</h3></div><div class = "toDo scheduleItem"><h3>'+data_schedule[i].toDo+'</h3></div></div>');
+	if(mm==tempM&&mm==pTempM&&dd<=tempD&&dd>pTempD){
+			$('.scheduleCtner').append('<div class = "thisWeek scheduleRow"><div class = "week scheduleItem"><h3>&#9758;</h3></div><div class = "date scheduleItem"><h3>'+data_schedule[i].date+'</h3></div><div class = "doing scheduleItem"><h3>'+data_schedule[i].doing+'</h3></div><div class = "toDo scheduleItem"><h3>'+data_schedule[i].toDo+'</h3></div></div>');
+			console.log('finger here');
+	}else if(mm<tempM&&mm==pTempM&&dd>pTempD){
+			$('.scheduleCtner').append('<div class = "thisWeek scheduleRow"><div class = "week scheduleItem"><h3>&#9758;</h3></div><div class = "date scheduleItem"><h3>'+data_schedule[i].date+'</h3></div><div class = "doing scheduleItem"><h3>'+data_schedule[i].doing+'</h3></div><div class = "toDo scheduleItem"><h3>'+data_schedule[i].toDo+'</h3></div></div>');
+			console.log('finger here');
+	}else if(mm==tempM&&mm>pTempM&&dd<=tempD){
+			$('.scheduleCtner').append('<div class = "thisWeek scheduleRow"><div class = "week scheduleItem"><h3>&#9758;</h3></div><div class = "date scheduleItem"><h3>'+data_schedule[i].date+'</h3></div><div class = "doing scheduleItem"><h3>'+data_schedule[i].doing+'</h3></div><div class = "toDo scheduleItem"><h3>'+data_schedule[i].toDo+'</h3></div></div>');
+			console.log('finger here');
 	}else{
 		$('.scheduleCtner').append('<div class = "scheduleRow"><div class = "week scheduleItem"><h3>w&thinsp;'+data_schedule[i].week+'</h3></div><div class = "date scheduleItem"><h3>'+data_schedule[i].date+'</h3></div><div class = "doing scheduleItem"><h3>'+data_schedule[i].doing+'</h3></div><div class = "toDo scheduleItem"><h3>'+data_schedule[i].toDo+'</h3></div></div>');
 

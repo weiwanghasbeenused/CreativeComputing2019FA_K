@@ -1,5 +1,10 @@
 var data_reading = [
 {
+	'infoOne':'Paul Ford',
+	'infoTwo':'2015',
+	'title':'What Is Code?',
+	'hyperLink':'https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/'
+},{
 	'infoOne':'Viktor Shklovsky',
 	'infoTwo':'1917',
 	'title':'Art as Technique',
@@ -11,74 +16,32 @@ var data_reading = [
 	'title':'Theory of D&#x000E9;rive',
 	'hyperLink':'media/resource/reading/TheoryOfDerive.pdf'
 },{
-	'infoOne':'Paul Ford',
+	'infoOne':'Bret Victor',
+	'infoTwo':'2012',
+	'title':'Stop Drawing Dead Fish',
+	'hyperLink':'https://vimeo.com/64895205'
+},{
+	'infoOne':'Anna Anthropy',
+	'infoTwo':'2012',
+	'title':'dys4ia Game',
+	'hyperLink':'https://freegames.org/dys4ia/'
+},{
+	'infoOne':'Cecilia D&rsquo;Anastasio',
 	'infoTwo':'2015',
-	'title':'What Is Code?',
-	'hyperLink':'https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/'
+	'title':'Why Video Games Can&rsquo;t Teach You Empathy (follow-up of dys4ia Game)',
+	'hyperLink':'https://www.vice.com/en_us/article/mgbwpv/empathy-games-dont-exist'
 },{
-	'infoOne':'4',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
+	'infoOne':'Marlies Peeters',
+	'infoTwo':'2016',
+	'title':'Designing in Liquid Times: Generative Graphic Design in an Age of Uncertainty',
+	'hyperLink':'http://adht.parsons.edu/designstudies/plot/designing-in-liquid-times-generative-graphic-design-in-an-age-of-uncertainty/'
 },{
-	'infoOne':'5',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'6',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'7',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'8',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'9',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'10',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'11',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'12',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'13',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'14',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'15',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
-},{
-	'infoOne':'16',
-	'infoTwo':'8/27',
-	'title':'intro',
-	'hyperLink':'TBA'
+	'infoOne':'Clive Thompson',
+	'infoTwo':'2009',
+	'title':'Clive Thompson on the Future of Reading in a Digital World',
+	'hyperLink':'https://www.wired.com/2009/05/st-thompson-10/'
 }
 ];
+
+
+
