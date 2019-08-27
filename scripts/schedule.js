@@ -38,17 +38,17 @@ var data_schedule = [
 	'week':'8',
 	'date':'10/15',
 	'doing':'<a href = "" target = "_blank">CSS 5</a></br>Mid-term Check-in 2',
-	'toDo':'Müller-Brockmann Poster'
+	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'9',
 	'date':'10/22',
 	'doing':'<a href = "" target = "_blank">CSS 6</a>',
-	'toDo':'Müller-Brockmann Poster'
+	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'10',
 	'date':'10/29',
 	'doing':'<a href = "" target = "_blank">CSS 7</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
-	'toDo':'Müller-Brockmann Poster'
+	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'11',
 	'date':'11/5',
