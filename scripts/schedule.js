@@ -2,7 +2,7 @@ var data_schedule = [
 {
 	'week':'1',
 	'date':'8/27',
-	'doing':'<a href = "" target = "_blank">Intro</a></br><a href = "" target = "_blank">Basic Computing</a></br><a>HTML 0</a>',
+	'doing':'<a href = "media/resource/lectures/w1-1_intro.pdf" target = "_blank">Intro</a></br><a href = "media/resource/lectures/w1-2_basicComputing.pdf" target = "_blank">Basic Computing</a></br><a href = "media/resource/lectures/w1-3_html0.pdf" target = "_blank">HTML 0</a>',
 	'toDo':'finish Set-up 1'
 },{
 	'week':'2',
