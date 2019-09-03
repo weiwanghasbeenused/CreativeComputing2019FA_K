@@ -38,8 +38,8 @@ var data_coding = [
 },{
 	'infoOne':'',
 	'infoTwo':'online tutorial',
-	'title':'Code Academy',
-	'hyperLink':'https://www.youtube.com'
+	'title':'Codecademy',
+	'hyperLink':'https://codecademy.com'
 },{
 	'infoOne':'',
 	'infoTwo':'online tutorial',
