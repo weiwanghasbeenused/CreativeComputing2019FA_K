@@ -150,6 +150,9 @@ div.shrink {
 .scheduleRow div{
 	vertical-align: top;
 }
+div.scheduleRow:first-of-type{
+	padding:0;
+}
 .scheduleItem{
 	display: inline-block;
 }
@@ -166,9 +169,15 @@ div.shrink {
 }
 .doing{
 	width:45%;
-	border-right: 1px solid black;
+	/*border-right: 1px solid black;*/
 	margin-right: 1vw;
 	box-sizing:border-box;
+}
+.toDO{
+	width:35%
+}
+.toDO ol{
+	padding-left: 2vw
 }
 .thisWeek .week h3{
 	line-height: 1em;

@@ -1,5 +1,11 @@
 var data_schedule = [
 {
+	'week':'',
+	'date':'date',
+	'doing':'content',
+	'toDo':'assignments'
+},
+{
 	'week':'1',
 	'date':'8/27',
 	'doing':'<a href = "media/resource/lectures/w1-1_intro.pdf" target = "_blank">Intro</a></br><a href = "media/resource/lectures/w1-2_basicComputing.pdf" target = "_blank">Basic Computing</a></br><a href = "media/resource/lectures/w1-3_html0.pdf" target = "_blank">HTML 0</a>',
@@ -8,22 +14,22 @@ var data_schedule = [
 	'week':'2',
 	'date':'9/3',
 	'doing':'<a href = "" target = "_blank">Set-up 2</a></br><a href = "" target = "_blank">HTML 1</a>',
-	'toDo':'finish in-class exercise'
+	'toDo':'<ol><li>finish in-class Exercise1</li><li><a href = "projects/p2.html">Semantic Lyrics-1</a></li><li><a href = "https://www.codecademy.com/learn/learn-html">Code Academy: Elements and Structure</a></li></ol>'
 },{
 	'week':'3',
 	'date':'9/10',
 	'doing':'<a href = "" target = "_blank">HTML 2</a>',
-	'toDo':'Semantic Lyric'
+	'toDo':'<ol><li>Semantic Lyrics-2</li></ol>'
 },{
 	'week':'4',
 	'date':'9/17',
 	'doing':'<a href = "" target = "_blank">HTML 3</a></br><a href = "" target = "_blank">CSS 1</a>',
-	'toDo':'Semantic Lyric'
+	'toDo':'<ol><li>Semantic Lyrics-3</li></ol>'
 },{
 	'week':'5',
 	'date':'9/24',
-	'doing':'<a href = "" target = "_blank">HTML 4</a></br><a href = "" target = "_blank">CSS 2</a>',
-	'toDo':'Semantic Lyric'
+	'doing':'<a href = "" target = "_blank">HTML 4</a></br><a href = "" target = "_blank">CSS 2</a></br>Semantic Lyrics due',
+	'toDo':'Object Drawing'
 },{
 	'week':'6',
 	'date':'10/1',

@@ -1,20 +1,20 @@
 <html>
 	<head>
-		<title>Lecture | Creative Computaing 2019FA K</title>
-	</head>
+		<title>Assignments | Creative Computaing 2019FA K</title>
 		<link href="style/index.css" rel="stylesheet">
 		<link href="style/subpages.css" rel="stylesheet">
 		<script src = 'scripts/library/jquery.min.js'></script>
-		<script src = 'scripts/schedule.js'></script>
+	</head>
+		
 	<body class = 'laptop'>
 		<div class = 'nav mainNav'>
 			<div class = 'courseTitle navItem'><h1><a href = 'index.html' target = '_self'><span class = 'k'>&#119974;</span></a></h1></div>
 			<div>
 				<div class = 'courseLink navItem'>
-					<div class = 'btn'><h2><a href = "assignments.html" target = "_self">Assignments</a></h2></div>
+					<div class = 'btn'><h2><a>Assignments</a></h2></div>
 					<div class = 'btn btn_resource'><h2><a>Recources</a></h2>
 						<div class = 'dropDown dropDownFrame recourceDropDown'>
-							<div class = 'dropDown dropDownBody'>	
+							<div class = 'dropDown dropDownBody'>
 								<div><h2><a href = 'media/resource/CCK_Syllabus.pdf' target = '_blank'>syllabus</a></h2></div>
 								<div><h2><a href = 'lecture.html' target = '_self'>lecture</a></h2></div>
 								<div><h2><a href = 'reading.html' target = '_self'>reading</a></h2></div>
@@ -27,16 +27,29 @@
 			</div>
 		</div>
 		<div class = 'ctner'>
-			<div class = 'sectionTitle'><h1>Lecture</h1></div>
-			<div class = 'contentCtner'></div>
+			<div class = 'sectionTitle'><h1>Projects</h1></div>
+			<div class = 'contentCtner'>
+				<table class = "projCtner">
+					<tr class = "projItems">
+						
+							<td class = "projOrder"><h4>p1.</h4></td>
+							<td class = "projTitle"><a href = "projects/p1.html" target = "_self"><h3>Documentation Website</h3></a></td>
+							<td class = "projDue"><h3>due 12/3</h3></td>
+						
+					</tr>
+					<tr class = "projItems">
+						<td class = "projOrder"><h4>p2.</h4></td>
+						<td class = "projTitle"><a href = "projects/p2.html" target = "_self"><h3>Semantic Lyrics</h3></a></td>
+						<td class = "projDue"><h3>due 9/27</h3></td>
+					</tr>
+				</table>
+				<div class = "Exercises"> </div>
+			</div>
+			<div class = 'sectionTitle exercisesTitle'><h1>Exercises</h1></div>
 		</div>
-		<script src = 'scripts/lecture.js'></script>
+		<script src = 'scripts/coding.js'></script>
 		<script src = 'scripts/resources.js'></script>
-		<script>
-			for(i = 0;i<data_lecture.length;i++){
-				$('.contentCtner').append('<a class = "contentItems" href = "'+data_lecture[i].hyperLink+'" target = "_blank"><div class = ""><div class = "info_content"><h4>w'+data_lecture[i].infoOne+'</h4></div><div class = "info_content"><h4>'+data_lecture[i].infoTwo+'</h4></div><div class = "itemTitle"><h3>'+data_lecture[i].title+'</h3></div></div></a>');
-			}
-		</script>
+		
 	</body>
 
 </html>
