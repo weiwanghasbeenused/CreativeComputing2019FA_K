@@ -146,6 +146,9 @@ tr{
 	margin-top: 2vw;
 	width:75%;
 }
+.exercisesTitle{
+	margin-top: 4vw;
+}
 li>div{
 	display: inline-block;
 	vertical-align: top;
