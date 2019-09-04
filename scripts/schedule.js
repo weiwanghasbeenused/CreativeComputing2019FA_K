@@ -14,7 +14,7 @@ var data_schedule = [
 	'week':'2',
 	'date':'9/3',
 	'doing':'<a href = "" target = "_blank">Set-up 2</a></br><a href = "" target = "_blank">HTML 1</a>',
-	'toDo':'<ol><li>finish in-class Exercise1</li><li><a href = "projects/p2.html">Semantic Lyrics-1</a></li><li><a href = "https://www.codecademy.com/learn/learn-html">Code Academy: Elements and Structure</a></li></ol>'
+	'toDo':'<ol><li>finish in-class Exercise1</li><li><a href = "projects/p2.html">Semantic Lyrics-1</a></li></ol>'
 },{
 	'week':'3',
 	'date':'9/10',
