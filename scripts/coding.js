@@ -37,6 +37,16 @@ var data_coding = [
 	'hyperLink':'https://www.youtube.com'
 },{
 	'infoOne':'',
+	'infoTwo':'web reference page',
+	'title':'W3School',
+	'hyperLink':'https://www.w3schools.com/html/html_elements.asp'
+},{
+	'infoOne':'',
+	'infoTwo':'web reference page',
+	'title':'MDN web docs',
+	'hyperLink':'https://developer.mozilla.org/en-US/docs/Web/HTML'
+},{
+	'infoOne':'',
 	'infoTwo':'online tutorial',
 	'title':'Codecademy',
 	'hyperLink':'https://codecademy.com'
