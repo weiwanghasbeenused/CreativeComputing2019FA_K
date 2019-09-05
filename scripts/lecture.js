@@ -19,6 +19,11 @@ var data_lecture = [
 	'infoTwo':'9/3',
 	'title':'HTML 1',
 	'hyperLink':'https://docs.google.com/presentation/d/1zOPDLJfPm3rYdW6R77D40kJQSL39IRM8WExZdEyATtU/edit?usp=sharing'
+},{
+	'infoOne':'2',
+	'infoTwo':'9/3',
+	'title':'HTML Notes',
+	'hyperLink':'https://docs.google.com/presentation/d/1pSH5ukRmHUbGk8_btnhmiPZcP6PWgsww8Qha53LOQFU/edit?usp=sharing'
 }
 
 ];
