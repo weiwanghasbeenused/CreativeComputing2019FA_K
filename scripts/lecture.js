@@ -24,6 +24,10 @@ var data_lecture = [
 	'infoTwo':'9/3',
 	'title':'HTML Notes',
 	'hyperLink':'https://docs.google.com/presentation/d/1pSH5ukRmHUbGk8_btnhmiPZcP6PWgsww8Qha53LOQFU/edit?usp=sharing'
+},{
+	'infoOne':'3',
+	'infoTwo':'9/10',
+	'title':'HTML 2',
+	'hyperLink':'https://docs.google.com/presentation/d/18A0XQEfYA6HhFUlr3kSrC2c3wrOl0xavjhclbxb-bgI/edit?usp=sharing'
 }
-
 ];

@@ -18,7 +18,7 @@ var data_schedule = [
 },{
 	'week':'3',
 	'date':'9/10',
-	'doing':'<a href = "" target = "_blank">HTML 2</a>',
+	'doing':'<a href = "https://docs.google.com/presentation/d/18A0XQEfYA6HhFUlr3kSrC2c3wrOl0xavjhclbxb-bgI/edit?usp=sharing" target = "_blank">HTML 2</a></br><a href = "" target = "_blank">CSS 1</a>',
 	'toDo':'<ol><li>Semantic Lyrics-2</li></ol>'
 },{
 	'week':'4',
