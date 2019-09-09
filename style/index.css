@@ -85,7 +85,9 @@ a{
 }
 .k{
 	color:rgba(255, 80, 80, 1);
+	text-decoration: none;
 }
+
 .courseLink{
 	animation:0.75s linkFadeInTwo;
 }
