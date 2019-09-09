@@ -94,7 +94,7 @@ var data_coding = [
 	'infoOne':'',
 	'infoTwo':'3D animation effects',
 	'title':'three.js',
-	'hyperLink':'https://threejs.org/'
+	'hyperLink':'https://threejs.org'
 },{
 	'infoOne':'Others',
 	'infoTwo':'',
