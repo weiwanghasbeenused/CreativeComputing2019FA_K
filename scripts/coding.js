@@ -76,6 +76,26 @@ var data_coding = [
 	'title':'WhatFont',
 	'hyperLink':'https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en'
 },{
+	'infoOne':'javaScript Libraries',
+	'infoTwo':'',
+	'title':'',
+	'hyperLink':''
+},{
+	'infoOne':'',
+	'infoTwo':'',
+	'title':'p5.js',
+	'hyperLink':'https://p5js.org'
+},{
+	'infoOne':'',
+	'infoTwo':'',
+	'title':'paper.js',
+	'hyperLink':'http://paperjs.org/'
+},{
+	'infoOne':'',
+	'infoTwo':'3D animation effects',
+	'title':'three.js',
+	'hyperLink':'https://threejs.org/'
+},{
 	'infoOne':'Others',
 	'infoTwo':'',
 	'title':'',
