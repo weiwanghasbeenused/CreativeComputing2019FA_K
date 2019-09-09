@@ -23,37 +23,37 @@ var data_schedule = [
 },{
 	'week':'4',
 	'date':'9/17',
-	'doing':'<a href = "" target = "_blank">HTML 3</a></br><a href = "" target = "_blank">CSS 1</a>',
+	'doing':'<a href = "" target = "_blank">HTML 3</a></br><a href = "" target = "_blank">CSS 2</a>',
 	'toDo':'<ol><li>Semantic Lyrics-3</li></ol>'
 },{
 	'week':'5',
 	'date':'9/24',
-	'doing':'<a href = "" target = "_blank">HTML 4</a></br><a href = "" target = "_blank">CSS 2</a></br>Semantic Lyrics due',
+	'doing':'<a href = "" target = "_blank">HTML 4</a></br><a href = "" target = "_blank">CSS 3</a></br>Semantic Lyrics due',
 	'toDo':'Object Drawing'
 },{
 	'week':'6',
 	'date':'10/1',
-	'doing':'<a href = "" target = "_blank">CSS 3</a>',
+	'doing':'<a href = "" target = "_blank">CSS 4</a>',
 	'toDo':'Object Drawing'
 },{
 	'week':'7',
 	'date':'10/8',
-	'doing':'<a href = "" target = "_blank">CSS 4</a></br>Mid-term Check-in 1',
+	'doing':'<a href = "" target = "_blank">CSS 5</a></br>Mid-term Check-in 1',
 	'toDo':'Object Drawing'
 },{
 	'week':'8',
 	'date':'10/15',
-	'doing':'<a href = "" target = "_blank">CSS 5</a></br>Mid-term Check-in 2',
+	'doing':'<a href = "" target = "_blank">CSS 6</a></br>Mid-term Check-in 2',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'9',
 	'date':'10/22',
-	'doing':'<a href = "" target = "_blank">CSS 6</a>',
+	'doing':'<a href = "" target = "_blank">CSS 7</a>',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'10',
 	'date':'10/29',
-	'doing':'<a href = "" target = "_blank">CSS 7</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
+	'doing':'<a href = "" target = "_blank">CSS 8</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'11',
