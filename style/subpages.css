@@ -29,7 +29,9 @@ a{
 	margin-right: 27vw;	
 	
 }
-
+.navItem a{
+	text-decoration: none;
+}
 
 .courseLink>div{
 	display: inline-block;
@@ -115,6 +117,9 @@ a{
 .linkCato>div{
 	vertical-align: top;
 	display: inline-block;
+}
+.contentCtner a{
+	text-decoration: none;
 }
 .listItems{
 	display: block;

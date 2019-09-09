@@ -14,12 +14,12 @@ var data_schedule = [
 	'week':'2',
 	'date':'9/3',
 	'doing':'<a href = "" target = "_blank">Set-up 2</a></br><a href = "" target = "_blank">HTML 1</a>',
-	'toDo':'<ol><li>finish in-class Exercise1</li><li><a href = "projects/p2.html">Semantic Lyrics-1</a></li></ol>'
+	'toDo':'<ol><li>finish in-class Exercise1</li><li><a href = "projects/p1.html">Semantic Lyrics-1</a></li></ol>'
 },{
 	'week':'3',
 	'date':'9/10',
 	'doing':'<a href = "https://docs.google.com/presentation/d/18A0XQEfYA6HhFUlr3kSrC2c3wrOl0xavjhclbxb-bgI/edit?usp=sharing" target = "_blank">HTML 2</a></br><a href = "" target = "_blank">CSS 1</a>',
-	'toDo':'<ol><li>Semantic Lyrics-2</li></ol>'
+	'toDo':'<ol><li><a href = "projects/p1.html">Semantic Lyrics-2</a></li></ol>'
 },{
 	'week':'4',
 	'date':'9/17',
