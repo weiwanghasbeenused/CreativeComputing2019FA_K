@@ -4,18 +4,16 @@
 		<title>website title</title>
 	</head>
 	<body>
-		<div id = "main">
-			<div id = "title"><h1>website title</h1></div>
-			<div id = "exercise">
-				<h3>exercises</h3>
-				<p class = "exercises"><a href = "">exercise1</a></p>
-				<p class = "exercises">...</p>
-			</div>
-			<div id = "project">
-				<h3>projects</h3>
-				<p class = "projects"><a href = "">project1</a></p>
-				<p class = "projects">...</p>
-			</div>
+		<div id = "title"><h1>website title</h1></div>
+		<div id = "exercise">
+			<h3>exercises</h3>
+			<p class = "ex_items"><a href = "">exercise1</a></p>
+			<p class = "ex_items">...</p>
+		</div>
+		<div id = "project">
+			<h3>projects</h3>
+			<p class = "proj_items"><a href = "">project1</a></p>
+			<p class = "proj_items">...</p>
 		</div>
 	</body>
 </html>
