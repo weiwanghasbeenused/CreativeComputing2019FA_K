@@ -18,7 +18,7 @@ var data_schedule = [
 },{
 	'week':'3',
 	'date':'9/10',
-	'doing':'<a href = "https://docs.google.com/presentation/d/1pSH5ukRmHUbGk8_btnhmiPZcP6PWgsww8Qha53LOQFU/edit?usp=sharing" target = "_blank">HTML element anatomy</a></br><a href = "https://docs.google.com/presentation/d/18A0XQEfYA6HhFUlr3kSrC2c3wrOl0xavjhclbxb-bgI/edit?usp=sharing" target = "_blank">HTML 2</a></br><a href = "" target = "_blank">CSS 1</a>',
+	'doing':'<a href = "https://docs.google.com/presentation/d/1pSH5ukRmHUbGk8_btnhmiPZcP6PWgsww8Qha53LOQFU/edit?usp=sharing" target = "_blank">HTML element anatomy</a></br><a href = "https://docs.google.com/presentation/d/18A0XQEfYA6HhFUlr3kSrC2c3wrOl0xavjhclbxb-bgI/edit?usp=sharing" target = "_blank">HTML 2</a></br><a href = "https://docs.google.com/presentation/d/1f_Hzm5oUz-t5IFxYj_QsbamSp2ADK3adQNzX9nN-zRw/edit?usp=sharing" target = "_blank">CSS 1</a>',
 	'toDo':'<ol><li><a href = "projects/p1.html">Semantic Lyrics-2</a></li></ol>'
 },{
 	'week':'4',
