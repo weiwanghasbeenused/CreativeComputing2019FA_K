@@ -23,7 +23,7 @@ var data_schedule = [
 },{
 	'week':'4',
 	'date':'9/17',
-	'doing':'<a href = "" target = "_blank">HTML 3</a></br><a href = "" target = "_blank">CSS 2</a>',
+	'doing':'<a href = "" target = "_blank">CSS 2</a>',
 	'toDo':'<ol><li>Semantic Lyrics-3</li></ol>'
 },{
 	'week':'5',
