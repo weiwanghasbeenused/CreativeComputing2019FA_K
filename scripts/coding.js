@@ -96,6 +96,46 @@ var data_coding = [
 	'title':'three.js',
 	'hyperLink':'https://threejs.org'
 },{
+	'infoOne':'Websites',
+	'infoTwo':'',
+	'title':'',
+	'hyperLink':''
+},{
+	'infoOne':'',
+	'infoTwo':'type foundry',
+	'title':'KILM Type Foundry',
+	'hyperLink':'https://klim.co.nz/'
+},{
+	'infoOne':'',
+	'infoTwo':'type foundry',
+	'title':'Commercial Classics',
+	'hyperLink':'https://commercialclassics.com/'
+},{
+	'infoOne':'',
+	'infoTwo':'type foundry',
+	'title':'Linotype',
+	'hyperLink':'https://www.linotype.com/'
+},{
+	'infoOne':'',
+	'infoTwo':'type foundry',
+	'title':'Hoefler&Co.',
+	'hyperLink':'https://www.typography.com/'
+},{
+	'infoOne':'',
+	'infoTwo':'type specimen',
+	'title':'Google Fonts + 한국어',
+	'hyperLink':'https://googlefonts.github.io/korean/'
+},{
+	'infoOne':'',
+	'infoTwo':'studio based in Brooklyn',
+	'title':'Linked by Air',
+	'hyperLink':'https://www.linkedbyair.net/'
+},{
+	'infoOne':'',
+	'infoTwo':'designer based in New York',
+	'title':'Zipeng Zhu',
+	'hyperLink':'http://zz-is.it/'
+},{
 	'infoOne':'Others',
 	'infoTwo':'',
 	'title':'',

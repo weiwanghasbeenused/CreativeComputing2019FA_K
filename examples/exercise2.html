@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>exercise 2</title>
+		<link rel = "stylesheet" type = "text/css" href = "">
+		<style>
+			h2{
+				background-color:yellow;
+				text-align: center
+			}
+			.sec1 p{
+				font-size: 30px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class = "sec1">
+			<h2>1. id and class selectors: link a .css file and style the text with appropriate style</h2>
+			<p class = "blue_text">
+				I am a blue text.
+			</p>
+			<p class = "green_text">
+				I am green text.
+			</p>
+			<p id = "red_text" class = "blue_text">
+				I should be red, not blue.
+			</p>
+			<p class = "blue_text green_text">
+				I should be blue, not green.</br> 
+				<span style = "font-size:20px; color:grey;">(hint: in css, the latter overrides the former.)</span>
+			</p>
+			<p>
+				I am just default black.
+			</p>
+			
+		</div>
+		<div class = "sec2">
+			<h2>2. units: px and vw/vh</h2>
+			<p class = "fixed_size">
+				Give me a value in px for my font-size.
+			</p>
+			<p class = "resonsive_size">
+				Give me a value in vw or vh for my font-size.
+			</p>
+			<div class = "fixed_box"><p>Assign this box width:200px and height:200px and background-color:blue</p></div>
+			<div class = "resonsive_box"><p>Assign this box width:20vw and height:20vh and background-color:red</p></div>
+			<p>
+				Try resizing the browser.
+			</p>
+		</div>
+	</body>
+</html>

@@ -117,7 +117,7 @@ div.shrink {
 	margin-left: 1vw;
 }
 .dropDownBody{
-	-webkit-transition: -webkit- top .5s; /* Safari */
+	-webkit-transition: -webkit- top .15s; /* Safari */
   	transition: top .15s;
 	position: absolute;
 	top:-200px;
