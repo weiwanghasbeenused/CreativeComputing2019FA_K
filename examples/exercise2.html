@@ -14,18 +14,24 @@
 			p{
 				font-size: 30px;
 			}
-			#hover_box_1{
+			#box_1{
+				width:500px;
+				height:200px;
+				background-color: pink;
+				margin-bottom: 2vw;
+			}
+			#box_2{
 				border: 1px solid blue;
 				margin-bottom: 2vw;
 			}
-			#hover_box_2{
+			#box_3{
 				width:400px;
 				height:300px;
 				background-color:red;
 				color:white;
 				margin-bottom: 2vw;
 			}
-			#hover_box_3{
+			#box_4{
 				border: 1px solid green;
 			}
 		</style>
@@ -37,14 +43,14 @@
 				I am a blue text.
 			</p>
 			<p class = "green_text">
-				I am green text.
+				I am a green text.
 			</p>
 			<p id = "red_text" class = "blue_text">
 				I should be red, not blue.
 			</p>
 			<p class = "blue_text green_text">
 				I should be blue, not green.</br> 
-				<span style = "font-size:20px; color:grey;">(hint: in css, the latter overrides the former.)</span>
+				<span style = "font-size:20px; color:grey;">(hint: in css, the latter overrides the former. Also, notice that my color will not change because inline css has a higher importance than external css.)</span>
 			</p>
 			<p>
 				I am just default black.
@@ -66,22 +72,34 @@
 			</p>
 		</div>
 		<div class = "sec3">
-			<h2>3. relationship selectors and :hover</h2>
-			<div id = "hover_box_1">
-				<h1>Don't change my color.</h1>
-				<div>
-					<p>Don't change my color.</p>
-				</div>
+			<h2>3. centering elements, relationship selectors, and :hover</h2>
+			<div id = "box_1">
+				<h1>
+					box1: 
+				</h1>
+				<p>Center this box horizontally on the page.</p>
+			</div>
+			<div id = "box_2">
+				<h1>box2: </h1>
 				<p>
-					Use relationship to select me and change my color to blue.
+					Use the right relationship selector to change the color of this paragraph to blue
 				</p>
+				<div>
+					<p>while this paragraph will stay black.</p>
+				</div>
 
 			</div>
-			<div id = "hover_box_2">
-				The background-color of the whole box will change when hovered.
+			<div id = "box_3">
+				<h1>box3: </h1>
+				<p>
+					The background-color of the whole box will change when hovered.
+				</p>
 			</div>
-			<div id = "hover_box_3">
-				Try to change other properties of this box when hovered. Opacity, margin, padding, border, width, height, etc...
+			<div id = "box_4">
+				<h1>box4: </h1>
+				<p>
+					Try to change other properties of this box when hovered. Opacity, margin, padding, border, width, height, etc...
+				</p>
 			</div>
 		</div>
 	</body>
