@@ -4,12 +4,29 @@
 		<title>exercise 2</title>
 		<link rel = "stylesheet" type = "text/css" href = "">
 		<style>
+			body{
+				padding-bottom:5vw;
+			}
 			h2{
 				background-color:yellow;
 				text-align: center
 			}
-			.sec1 p{
+			p{
 				font-size: 30px;
+			}
+			#hover_box_1{
+				border: 1px solid blue;
+				margin-bottom: 2vw;
+			}
+			#hover_box_2{
+				width:400px;
+				height:300px;
+				background-color:red;
+				color:white;
+				margin-bottom: 2vw;
+			}
+			#hover_box_3{
+				border: 1px solid green;
 			}
 		</style>
 	</head>
@@ -47,6 +64,25 @@
 			<p>
 				Try resizing the browser.
 			</p>
+		</div>
+		<div class = "sec3">
+			<h2>3. relationship selectors and :hover</h2>
+			<div id = "hover_box_1">
+				<h1>Don't change my color.</h1>
+				<div>
+					<p>Don't change my color.</p>
+				</div>
+				<p>
+					Use relationship to select me and change my color to blue.
+				</p>
+
+			</div>
+			<div id = "hover_box_2">
+				The background-color of the whole box will change when hovered.
+			</div>
+			<div id = "hover_box_3">
+				Try to change other properties of this box when hovered. Opacity, margin, padding, border, width, height, etc...
+			</div>
 		</div>
 	</body>
 </html>
