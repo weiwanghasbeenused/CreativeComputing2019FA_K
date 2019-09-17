@@ -99,6 +99,7 @@
 				<h1>box4: </h1>
 				<p>
 					Try to change other properties of this box when hovered. Opacity, margin, padding, border, width, height, etc...
+					(Try adding <strong>transition: all 1s;</strong> to box_4.)
 				</p>
 			</div>
 		</div>
