@@ -140,12 +140,13 @@ tr{
 .projDes{
 	width:75%;
 }
-.projDes ul, .projSchedule ol{
+.projDes ul, .projSchedule ol, .projDes ol{
 	padding-left: 4vw;
+	padding-bottom: 4vw;
 	
 }
 .projDes li{
-	margin-top: 2vw;
+	margin-top: 1vw;
 }
 .projSchedule{
 	margin-top: 2vw;
