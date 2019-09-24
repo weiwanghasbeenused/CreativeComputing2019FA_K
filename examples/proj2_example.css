@@ -1,0 +1,156 @@
+
+h1{
+	font-size: 12vw;
+}
+
+.container{
+	margin:30vw auto 10vw auto;
+	width:18vw;
+}
+#toy{	
+	position: relative;
+	overflow: hidden;
+}
+
+#tama{
+	width: 12vw;
+	height: 12vw;
+	background: red;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+
+	position: fixed;
+	top:8vw;
+	left:44vw;
+	z-index:20;
+
+}
+#horizontal{
+	position:absolute;
+	top:5vw;
+	left:0;
+	width:18vw;
+	height:8.5vw;
+	display: flex;
+}
+#horizontal >div{
+	/*position: relative;*/
+}
+#bridge_ctner{
+	flex:8;
+	position: relative;
+}
+
+
+
+#bridge{
+	width: 100%;
+	height: 100%;
+	background:rgba(250,180,100,1);
+    z-index:1;
+
+}
+#bridgeShadow{
+	width:100%;
+	height:20%;
+	background:rgba(180,150,100,1);
+	position:absolute;
+	bottom:0;
+	z-index:1;
+
+}
+.counter{
+	width:37.5vw;
+	height:37.5vw;
+	left:-11.75vw;
+	background: white;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	z-index:2;
+	position:absolute;
+}
+#upCounter{
+	top:-36.25vw;
+	
+}
+#lowerCounter{
+	bottom:-36.25vw;
+}
+
+.bowl_ctner{
+	flex:1;
+	height:100%;
+	position:relative;
+	z-index:3;
+}
+.bowl{
+	width:100%;
+	height:100%;
+	background: rgba(250,180,100,1);
+	box-sizing: border-box;
+}
+.bowlShadow{
+	width:100%;
+	height:20%;
+	position: absolute;
+	bottom:0;
+	background:rgba(180,150,100,1);
+	box-sizing: border-box;
+}
+#smallBowl, #smallShadow{
+	border-left: 2px solid white;
+}
+#bigBowl, #bigShadow{
+	border-right: 2px solid white;
+}
+
+#vertical{
+	position: relative;
+	width:8vw;
+	height:32vw;
+	z-index: 10;
+	left:5vw;
+}
+
+
+#ken{
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 3.5vw 27.2vw 3.5vw;
+	border-color: transparent transparent rgba(250,180,100,1) transparent;
+	margin-left: .5vw;
+}
+#bottom_ctner{
+	width:100%;
+	height:15%;
+	position: relative;
+	box-sizing: border-box;
+	border-top: 2px solid white;
+
+}
+#bottom{
+	width:100%;
+	height:100%;
+	background: rgba(250,180,100,1);
+    z-index:1;
+}
+#bottomShadow{
+	width:100%;
+	height:33%;
+	background:rgba(180,150,100,1);	
+	position:absolute;
+	bottom:0;
+	z-index:3;
+
+}
+
+
+
+#blank{
+	position:relative;
+	height:800px;
+}
+
