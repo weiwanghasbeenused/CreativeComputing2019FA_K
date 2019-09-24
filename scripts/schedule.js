@@ -33,7 +33,7 @@ var data_schedule = [
 },{
 	'week':'6',
 	'date':'10/1',
-	'doing':'<a href = "https://www.newschool.edu/festival-of-new/">Festival of New</a>. &cross;&thinsp;No Class',
+	'doing':'<a href = "https://www.newschool.edu/festival-of-new/" target = "_blank">Festival of New</a>. &cross;&thinsp;No Class',
 	'toDo':''
 },{
 	'week':'7',
