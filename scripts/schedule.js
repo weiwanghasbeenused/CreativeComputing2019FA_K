@@ -28,38 +28,38 @@ var data_schedule = [
 },{
 	'week':'5',
 	'date':'9/24',
-	'doing':'<a href = "" target = "_blank">HTML 4</a></br><a href = "" target = "_blank">CSS 3</a></br>Semantic Lyrics due',
-	'toDo':'Object Drawing'
+	'doing':'<a href = "https://docs.google.com/presentation/d/1pliBYnNRfyh0cVNVc3yCqniGPu8ZMvzpSYGpXY37hBQ/edit?usp=sharing" target = "_blank">CSS 3: Box Model</a></br>Semantic Lyrics due',
+	'toDo':'<ol><li><a href = "https://docs.google.com/document/d/1vdz2dghThneId9seK4noGF36yK0StOKtLNtG9eUq75s/edit?usp=sharing" target = "_blank">Drawing a Face!</a></li><li>watch: <a href = "https://youtu.be/jx5jmI0UlXU">CSS Positioning</a> & <a href="https://www.youtube.com/watch?v=fYq5PXgSsbE">Flexbox</a></li></ol>'
 },{
 	'week':'6',
 	'date':'10/1',
-	'doing':'<a href = "" target = "_blank">CSS 4</a>',
-	'toDo':'Object Drawing'
+	'doing':'<a href = "https://www.newschool.edu/festival-of-new/">Festival of New</a>. &cross;&thinsp;No Class',
+	'toDo':''
 },{
 	'week':'7',
 	'date':'10/8',
-	'doing':'<a href = "" target = "_blank">CSS 5</a></br>Mid-term Check-in 1',
-	'toDo':'Object Drawing'
+	'doing':'<a href = "" target = "_blank">CSS 4: Layout—Float, Flexbox & Grid</a></br>Mid-term Check-in 1',
+	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'8',
 	'date':'10/15',
-	'doing':'<a href = "" target = "_blank">CSS 6</a></br>Mid-term Check-in 2',
+	'doing':'<a href = "" target = "_blank">CSS 5: Positioning & Animation</a></br>Mid-term Check-in 2',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'9',
 	'date':'10/22',
-	'doing':'<a href = "" target = "_blank">CSS 7</a>',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'doing':'<a href = "" target = "_blank">CSS 6: Others</a>',
+	'toDo':'Digital Recreation'
 },{
 	'week':'10',
 	'date':'10/29',
-	'doing':'<a href = "" target = "_blank">CSS 8</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'doing':'<a href = "" target = "_blank">CSS 7</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
+	'toDo':'Digital Recreation'
 },{
 	'week':'11',
 	'date':'11/5',
 	'doing':'working session',
-	'toDo':'Open-sourcing'
+	'toDo':'Digital Recreation'
 },{
 	'week':'12',
 	'date':'11/12',
