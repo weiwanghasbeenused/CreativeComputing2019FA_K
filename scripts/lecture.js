@@ -39,5 +39,10 @@ var data_lecture = [
 	'infoTwo':'9/17',
 	'title':'CSS 2',
 	'hyperLink':'https://docs.google.com/presentation/d/1D--RcrqQosM1tCkiqEcW9ca1Ew3mekgm5yp_yxYUHlk/edit?usp=sharing'
+},{
+	'infoOne':'5',
+	'infoTwo':'9/24',
+	'title':'CSS 3',
+	'hyperLink':'https://docs.google.com/presentation/d/1pliBYnNRfyh0cVNVc3yCqniGPu8ZMvzpSYGpXY37hBQ/edit?usp=sharing'
 }
 ];
