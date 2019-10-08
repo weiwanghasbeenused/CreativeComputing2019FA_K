@@ -49,12 +49,12 @@ var data_schedule = [
 	'week':'9',
 	'date':'10/22',
 	'doing':'<a href = "" target = "_blank">CSS 5: CSS Animation & Responsive CSS</a>',
-	'toDo':'Digital Recreation'
+	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'10',
 	'date':'10/29',
 	'doing':'<a href = "" target = "_blank">CSS 6: others</a></br><a href = "" target = "_blank">JavaScript/jQuery 1: selectors</a>',
-	'toDo':'Digital Recreation'
+	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'11',
 	'date':'11/5',
@@ -64,12 +64,12 @@ var data_schedule = [
 	'week':'12',
 	'date':'11/12',
 	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2</a>',
-	'toDo':'Open-sourcing'
+	'toDo':'Digital Recreation'
 },{
 	'week':'13',
 	'date':'11/19',
 	'doing':'working session',
-	'toDo':'Open-sourcing'
+	'toDo':'Digital Recreation'
 },{
 	'week':'14',
 	'date':'11/26',
