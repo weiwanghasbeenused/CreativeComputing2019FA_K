@@ -39,7 +39,7 @@ var data_schedule = [
 	'week':'7',
 	'date':'10/8',
 	'doing':'&cross;&thinsp;No Class',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'toDo':''
 },{
 	'week':'8',
 	'date':'10/15',
