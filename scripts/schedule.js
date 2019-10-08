@@ -38,8 +38,8 @@ var data_schedule = [
 },{
 	'week':'7',
 	'date':'10/8',
-	'doing':'<a href = "" target = "_blank">CSS 4: Layout—Float, Flexbox & Grid</a></br>Mid-term Check-in 1',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'doing':'&cross;&thinsp;No Class',
+	'toDo':''
 },{
 	'week':'8',
 	'date':'10/15',
