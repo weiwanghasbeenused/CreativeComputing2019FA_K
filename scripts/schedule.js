@@ -48,12 +48,12 @@ var data_schedule = [
 },{
 	'week':'9',
 	'date':'10/22',
-	'doing':'<a href = "" target = "_blank">CSS 5: CSS Animation</a>',
+	'doing':'<a href = "" target = "_blank">CSS 5: CSS Animation & Responsive CSS</a>',
 	'toDo':'Digital Recreation'
 },{
 	'week':'10',
 	'date':'10/29',
-	'doing':'<a href = "" target = "_blank">CSS 7</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
+	'doing':'<a href = "" target = "_blank">CSS 6: others & JavaScript 1: Selectors</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
 	'toDo':'Digital Recreation'
 },{
 	'week':'11',
