@@ -53,7 +53,7 @@ var data_schedule = [
 },{
 	'week':'10',
 	'date':'10/29',
-	'doing':'<a href = "" target = "_blank">CSS 6: others & JavaScript 1: Selectors</a></br><a href = "" target = "_blank">JavaScript/jQuery 1</a>',
+	'doing':'<a href = "" target = "_blank">CSS 6: others</a></br><a href = "" target = "_blank">JavaScript/jQuery 1: selectors</a>',
 	'toDo':'Digital Recreation'
 },{
 	'week':'11',
