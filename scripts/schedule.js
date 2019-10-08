@@ -33,22 +33,22 @@ var data_schedule = [
 },{
 	'week':'6',
 	'date':'10/1',
-	'doing':'<a href = "https://www.newschool.edu/festival-of-new/" target = "_blank">Festival of New</a>. &cross;&thinsp;No Class',
+	'doing':'<a href = "https://www.newschool.edu/festival-of-new/" target = "_blank">Festival of New</a>, &cross;&thinsp;no class',
 	'toDo':''
 },{
 	'week':'7',
 	'date':'10/8',
-	'doing':'&cross;&thinsp;No Class',
+	'doing':'Evening before Yom Kippur, &cross;&thinsp;no class',
 	'toDo':''
 },{
 	'week':'8',
 	'date':'10/15',
-	'doing':'<a href = "" target = "_blank">CSS 5: CSS Layout: Flexbox, Gird, and Float</a>',
+	'doing':'<a href = "" target = "_blank">CSS 4: CSS Layout: Flexbox, Gird, and Float</a>',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'9',
 	'date':'10/22',
-	'doing':'<a href = "" target = "_blank">CSS 6: Others</a>',
+	'doing':'<a href = "" target = "_blank">CSS 5: CSS Animation</a>',
 	'toDo':'Digital Recreation'
 },{
 	'week':'10',
