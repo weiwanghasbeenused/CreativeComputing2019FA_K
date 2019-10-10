@@ -43,7 +43,7 @@ var data_schedule = [
 },{
 	'week':'8',
 	'date':'10/15',
-	'doing':'<a href = "" target = "_blank">CSS 4: CSS Layout: Flexbox, Gird, and Float</a>',
+	'doing':'<a href = "" target = "_blank">CSS 4: CSS Layout: Flexbox, Grid, and Float</a>',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'9',
