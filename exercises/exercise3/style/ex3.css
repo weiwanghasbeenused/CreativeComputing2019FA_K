@@ -1,13 +1,26 @@
-.container {
-  background-color: yellow;
+*{
+	margin:0;
+	padding:0;
 }
-
-.col-2 {
-  border: 1px solid black;
+h1{
+	font-family: 'Playfair Display', serif;
+	font-size: ;
+	line-height: ;
 }
-
-.container-fluid {
-  background-color: pink;
+p{
+	font-family: 'Arimo', sans-serif;
+	font-size: ;
+	line-height: ;
 }
-
-/*# sourceMappingURL=bs1.css.map */
+.flex-container{
+	display: flex;
+}
+.image{
+	flex:2;
+}
+.text{
+	flex:1;
+}
+img{
+	width:100%;
+}
