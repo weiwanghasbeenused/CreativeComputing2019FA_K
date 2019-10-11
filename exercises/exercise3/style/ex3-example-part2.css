@@ -1,0 +1,23 @@
+h1{
+	font-size: 1.8vw;
+	margin:0.5em 0 0.75em 0;
+	line-height:1.4em;
+}
+p{
+	line-height:1.5em;
+}
+
+.grid-parent{
+	width:70vw;
+	margin:0 auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 1.5vw;
+}
+
+.grid-item{
+	padding-bottom: 2vw;
+}
+img{
+	width:100%;
+}
