@@ -44,5 +44,11 @@ var data_lecture = [
 	'infoTwo':'9/24',
 	'title':'CSS 3',
 	'hyperLink':'https://docs.google.com/presentation/d/1pliBYnNRfyh0cVNVc3yCqniGPu8ZMvzpSYGpXY37hBQ/edit?usp=sharing'
+},{
+	'infoOne':'8',
+	'infoTwo':'10/15',
+	'title':'CSS 4: CSS Layout',
+	'hyperLink':'https://docs.google.com/presentation/d/18zhLPLOgQik1ESiiwFE9lMC2ii3ZYHIQsL7KyKbNCcU/edit?usp=sharing'
 }
+
 ];
