@@ -2,6 +2,7 @@
 	margin:0;
 	padding:0;
 	box-sizing:border-box;
+	font-family: sans-serif;
 }
 p{
 	font-size: 2vw;
@@ -9,23 +10,43 @@ p{
 .main_ctner{
 	margin:2vw 5vw 0 5vw;
 }
-
-.file_ctner > div, .folder_ctner > div{
+.folder_icon, .file_icon{
+	width:5vw;
+}
+.folder_icon{
+	cursor: pointer;
+}
+.expand_folder .folder_name{
+	text-decoration: underline;
+	background-color: yellow;
+}
+.folder_self:hover .folder_name{
+	text-decoration: underline;
+	background-color: yellow;
+}
+.folder_self > *, .file_ctner > *, .folder_pupu>*{
 	display: inline-block;
 	vertical-align: middle;
 }
-.file_icon, .folder_icon{
-	width:5vw;
+.folder_self{
+	display: inline-block;
 }
-img{
-	width:100%;
-}
+
 .lv1{
 	margin-left: 0;
 }
 .lv2{
-	margin-left: 3vw;
+	margin-left: 5vw;
 }
 .lv3{
 	margin-left: 6vw;
+}
+.folder_child{
+	height:0;
+	overflow: hidden;
+	transition: all .5s;
+}
+.expand_folder~ .folder_child{
+	height:auto;
+
 }

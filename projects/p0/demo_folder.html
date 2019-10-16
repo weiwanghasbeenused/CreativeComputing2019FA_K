@@ -4,32 +4,92 @@
     <meta charset="utf-8">
     <title>Organizing Your Folders and Files</title>
     <link rel="stylesheet" href="style/demo_folder.css"/>
+    <script src = "scripts/lib/jQuery.min.js"></script>
   </head>
   <body>
 
     <div class = "main_ctner">
-      <p>In your class folder:</p>
       <div class = "file_ctner lv1">
-        <div class = 'file_icon'>
-          <img src = "images/icons1.png">
-        </div>
-        <div class = "file_name"><p>index.html</p></div>
+          <img class = 'file_icon' src = "images/icons1.png">
+          <p>index.html</p>
       </div>
       <div class = "folder_ctner lv1">
-        <div class = 'folder_icon'>
-          <img src = "images/icons2.png">
+        <div class = "folder_self">
+          <img class = "folder_icon"src = "images/icons2.png">
+          <p class = "folder_name">style</p>
         </div>
-        <div class = "folder_name"><p>style</p></div>
+        <div class = "folder_child">
+          <div class = "file_ctner lv1">
+            <img class = 'file_icon lv2' src = "images/icons1.png">
+            <p>index.css</p>
+          </div>
+        </div>
       </div>
 
       <div class = "folder_ctner lv1">
-        <div class = 'folder_icon'>
-          <img src = "images/icons2.png">
+        <div class = "folder_self">
+          <img class = "folder_icon"src = "images/icons2.png">
+          <p class = "folder_name">exercises</p>
         </div>
-        <div class = "folder_name"><p>exercises</p></div>
+        <div class = "folder_child">
+          <div class = "folder_ctner lv2">
+            <div class = "folder_self">
+              <img class = "folder_icon"src = "images/icons2.png">
+              <p class = "folder_name">exercise1</p>
+            </div>
+            <div class = "folder_child lv2">
+              <div class = "file_ctner lv1">
+                <img class = 'file_icon' src = "images/icons1.png">
+                <p>exercise1.html</p>
+              </div>
+              <div class = "folder_ctner lv1">
+                <div class = "folder_self">
+                  <img class = "folder_icon"src = "images/icons2.png">
+                  <p class = "folder_name">style</p>
+                </div>
+                <div class = "folder_child">
+                  <div class = "file_ctner lv1">
+                    <img class = 'file_icon lv2' src = "images/icons1.png">
+                    <p>ex1.css</p>
+                  </div>
+                </div>
+              </div>
+              <div class = "folder_ctner lv1">
+                <div class = "folder_self">
+                  <img class = "folder_icon"src = "images/icons2.png">
+                  <p class = "folder_name">media</p>
+                </div>
+                <div class = "folder_child lv2">
+                  <div class = "folder_pupu">
+                    <img class = "folder_icon"src = "images/icons2.png">
+                    <p class = "folder_name">images</p>
+                  </div>
+                  <div class = "folder_pupu">
+                    <img class = "folder_icon"src = "images/icons2.png">
+                    <p class = "folder_name">video</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class = "folder_ctner lv2">
+            <div class = "folder_pupu">
+              <img class = "folder_icon"src = "images/icons2.png">
+              <p class = "folder_name">exercise2</p>
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div class = "file_ctner lv2">
+      <div class = "folder_ctner lv1">
+        <div class = "folder_pupu">
+          <img class = "folder_icon"src = "images/icons2.png">
+          <p class = "folder_name">projects</p>
+        </div>
+      </div>
+      <div class = "file_ctner lv1">
+          <img class = 'file_icon' src = "images/icons3.png">
+      </div>
+      <!-- <div class = "file_ctner lv2">
         <div class = 'file_icon'>
           <img src = "images/icons2.png">
         </div>
@@ -66,7 +126,8 @@
         </div>
         <div class = "folder_name"><p>projects</p></div>
       </div>
-      
+       -->
     </div>
+    <script src = "scripts/demo_folder.js"></script>
   </body>
 </html>
