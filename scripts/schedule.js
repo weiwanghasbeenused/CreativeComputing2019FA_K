@@ -63,7 +63,7 @@ var data_schedule = [
 },{
 	'week':'12',
 	'date':'11/12',
-	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2</a>',
+	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2: functions 1</a>',
 	'toDo':'Digital Recreation'
 },{
 	'week':'13',
@@ -73,7 +73,7 @@ var data_schedule = [
 },{
 	'week':'14',
 	'date':'11/26',
-	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 3</a>',
+	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 3: functions 2</a>',
 	'toDo':'Final Documentation'
 },{
 	'week':'15',
