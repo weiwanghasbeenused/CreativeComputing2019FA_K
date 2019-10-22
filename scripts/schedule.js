@@ -44,17 +44,17 @@ var data_schedule = [
 	'week':'8',
 	'date':'10/15',
 	'doing':'<a href = "https://docs.google.com/presentation/d/18zhLPLOgQik1ESiiwFE9lMC2ii3ZYHIQsL7KyKbNCcU/edit?usp=sharing" target = "_blank">CSS 4: CSS Layout: Flexbox, Grid, and Float</a>',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'toDo':'<a href = "https://docs.google.com/document/d/18qXUoMDh0EIPcnbFIwJV8aOobEXK2e9_5TF4jrARSjU/edit" target = "_blank">M&#252;ller-Brockmann Poster</a>'
 },{
 	'week':'9',
 	'date':'10/22',
 	'doing':'<a href = "https://docs.google.com/presentation/d/1IqkXm3GOV_mgW61uCTQQ-PoTKpUZF29PajxseqJQn1I/edit?usp=sharing" target = "_blank">CSS 5: Positioning, Transform, and Animation</a>',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'toDo':'<a href = "https://docs.google.com/document/d/18qXUoMDh0EIPcnbFIwJV8aOobEXK2e9_5TF4jrARSjU/edit" target = "_blank">M&#252;ller-Brockmann Poster</a>'
 },{
 	'week':'10',
 	'date':'10/29',
 	'doing':'<a href = "" target = "_blank">CSS 6: Advanced Selector and Responsive CSS</a></br><a href = "" target = "_blank">JavaScript/jQuery 1: selectors</a>',
-	'toDo':'M&#252;ller-Brockmann Poster'
+	'toDo':'<a href = "https://docs.google.com/document/d/18qXUoMDh0EIPcnbFIwJV8aOobEXK2e9_5TF4jrARSjU/edit" target = "_blank">M&#252;ller-Brockmann Poster</a>'
 },{
 	'week':'11',
 	'date':'11/5',
