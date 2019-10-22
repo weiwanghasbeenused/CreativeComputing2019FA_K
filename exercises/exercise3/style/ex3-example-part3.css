@@ -8,15 +8,13 @@
 	background-color: white;
 	top:0; 
 }
-.nav>div{
-	vertical-align: center;
-}
 .nav_item1{
 	flex:3;
 	padding-top: 2.75vw;
 }
 .nav_item2{
 	flex:2;
+	text-align:center;
 }
 .nav_item3{
 	flex:2;
