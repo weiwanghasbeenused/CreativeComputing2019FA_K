@@ -48,7 +48,7 @@ var data_schedule = [
 },{
 	'week':'9',
 	'date':'10/22',
-	'doing':'<a href = "" target = "_blank">CSS 5: Positioning, Transform, and Animation</a>',
+	'doing':'<a href = "https://docs.google.com/presentation/d/1IqkXm3GOV_mgW61uCTQQ-PoTKpUZF29PajxseqJQn1I/edit?usp=sharing" target = "_blank">CSS 5: Positioning, Transform, and Animation</a>',
 	'toDo':'M&#252;ller-Brockmann Poster'
 },{
 	'week':'10',

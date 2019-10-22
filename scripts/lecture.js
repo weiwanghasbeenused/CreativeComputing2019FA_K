@@ -49,6 +49,10 @@ var data_lecture = [
 	'infoTwo':'10/15',
 	'title':'CSS 4: CSS Layout',
 	'hyperLink':'https://docs.google.com/presentation/d/18zhLPLOgQik1ESiiwFE9lMC2ii3ZYHIQsL7KyKbNCcU/edit?usp=sharing'
+},{
+	'infoOne':'9',
+	'infoTwo':'10/22',
+	'title':'CSS 5: Positioning, Transform, and Animation',
+	'hyperLink':'https://docs.google.com/presentation/d/1IqkXm3GOV_mgW61uCTQQ-PoTKpUZF29PajxseqJQn1I/edit?usp=sharing'
 }
-
 ];
