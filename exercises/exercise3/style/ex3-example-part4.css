@@ -1,5 +1,11 @@
 .info{
 	position:absolute;
 	bottom:0.5vw;
-	left:0.5vw;
+}
+.grid-item, .text{
+	position:relative;
+	padding-bottom: 5vw;
+}
+.nav{
+	z-index: 10;
 }
