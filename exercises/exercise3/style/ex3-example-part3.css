@@ -1,16 +1,21 @@
 .nav{
 	width:100vw;
 	box-sizing: border-box;
-	padding:2vw 12.5vw;
+	padding:0 12.5vw;
 	display:flex;
 	border-bottom:1px solid gray;
 	position:fixed;
 	background-color: white;
 	top:0; 
 }
+.nav_item{
+	/*border:1px solid blue;*/
+	box-sizing: border-box;
+}
 .nav_item1{
 	flex:3;
-	padding-top: 2.75vw;
+	/*margin: 2.75vw 0 0 12.5vw;*/
+	padding-top:2.75vw;
 }
 .nav_item2{
 	flex:2;
@@ -18,18 +23,25 @@
 }
 .nav_item3{
 	flex:3;
-	padding-top: 2.3vw;
+	padding-top:2.75vw;
+	/*padding: 2.75vw 0 0 2.5vw;*/
+	/*padding-top: 2.3vw;*/
 }
 .nav_link{
-	margin-right: 1.5vw;
+	margin-top: 2.75vw;
+	margin-right: 1vw;
 	font-family: 'Arimo', sans-serif;
-	font-size:1vw;
-	font-weight: bold;
 }
+.social_icon:first-of-type{
+	margin-left:4vw;
+}
+
 .social_icon{
 	width:1.5vw;
 	margin-right: 1.5vw;
+	/*float:right;*/
+	/*margin-right: 1.5vw;*/
 }
 .flex_container{
-	margin-top: 15vw;
+	margin-top: 8vw;
 }
