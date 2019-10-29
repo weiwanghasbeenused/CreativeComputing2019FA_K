@@ -59,17 +59,17 @@ var data_schedule = [
 	'week':'11',
 	'date':'11/5',
 	'doing':'working session',
-	'toDo':'Digital Recreation'
+	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'12',
 	'date':'11/12',
 	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2: functions 1<br>Documenting websites</a>',
-	'toDo':'Digital Recreation'
+	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'13',
 	'date':'11/19',
 	'doing':'working session',
-	'toDo':'Digital Recreation'
+	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'14',
 	'date':'11/26',
