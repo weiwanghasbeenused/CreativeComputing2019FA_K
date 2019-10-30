@@ -58,7 +58,7 @@ var data_schedule = [
 },{
 	'week':'11',
 	'date':'11/5',
-	'doing':'working session',
+	'doing':'working session</br><a href = "https://docs.google.com/spreadsheets/d/1Ukuur1aCmNGlofnduqyhQ3FYFxrWK2DTdRA7QHbygoA/edit#gid=0" target = "_blank">Sign up for meeting</a>',
 	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'12',
@@ -68,7 +68,7 @@ var data_schedule = [
 },{
 	'week':'13',
 	'date':'11/19',
-	'doing':'working session</br><a href = "https://docs.google.com/spreadsheets/d/1Ukuur1aCmNGlofnduqyhQ3FYFxrWK2DTdRA7QHbygoA/edit#gid=0" target = "_blank">Sign up for meeting</a>',
+	'doing':'working session',
 	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'14',
