@@ -95,17 +95,17 @@ var data_coding = [
 	'infoTwo':'3D animation effects',
 	'title':'three.js',
 	'hyperLink':'https://threejs.org'
-}{
+},{
 	'infoOne':'',
 	'infoTwo':'smooth animation',
 	'title':'transit.js',
 	'hyperLink':'https://ricostacruz.com/jquery.transit/'
-}{
+},{
 	'infoOne':'',
 	'infoTwo':'better performance when scrolling',
 	'title':'Magic Scroll',
 	'hyperLink':'https://scrollmagic.io/'
-}{
+},{
 	'infoOne':'',
 	'infoTwo':'data visualization tool',
 	'title':'D3.js',
