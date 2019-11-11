@@ -51,6 +51,10 @@ a{
 	text-decoration: underline;
 
 }
+:root{
+	--main_color:rgba(255, 80, 80, 1);
+	--sec_color:rgba(0,220,220,1); 
+}
 .active a{
 	color:rgba(255, 80, 80, 1);
 }

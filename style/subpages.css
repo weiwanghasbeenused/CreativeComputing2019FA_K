@@ -130,45 +130,5 @@ a{
 	margin-bottom: 2vw;
 	
 }
-.projCtner{
-	width:100%;
-}
-tr{
-	width:100%;
-	padding: 10vw 0;
-}
-.projDes{
-	width:75%;
-}
-.projDes ul, .projSchedule ol, .projDes ol{
-	padding-left: 4vw;
-	padding-bottom: 4vw;
-	
-}
-.projDes li{
-	margin-top: 1vw;
-}
-.projSchedule{
-	margin-top: 2vw;
-	width:75%;
-}
-.exercisesTitle{
-	margin-top: 4vw;
-}
-li>div{
-	display: inline-block;
-	vertical-align: top;
-}
-.projSchedule li{
-	margin-top: 2vw;
-}
-.projSchedule_date{
-	width:20%;
-}
-.projSchedule_progress{
-	width:79%;
-}
-/*.projItems:hover{
-	background-color: rgba(0,220,220,1);
-	cursor: pointer;
-}*/
+
+

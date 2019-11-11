@@ -1,0 +1,51 @@
+
+
+.projCtner{
+	width:100%;
+
+}
+ul{
+	list-style-type:none;
+}
+.projItems{
+	display:grid;
+	grid-template-columns: 5vw auto 10vw; 
+	/*margin-bottom: 1vw;*/
+	padding: .5vw 0 .25vw .5vw;
+}
+.projDes{
+	width:75%;
+}
+.projDes ul, .projSchedule ol, .projDes ol{
+	padding-left: 4vw;
+	padding-bottom: 4vw;
+	
+}
+.projDes li{
+	margin-top: 1vw;
+}
+.projSchedule{
+	margin-top: 2vw;
+	width:75%;
+}
+.exsItems{
+	display:grid;
+	grid-template-columns: 5vw auto;
+	padding: .5vw 0 .25vw .5vw;
+}
+.exsItems>a{
+	display: block;
+}
+.exercisesTitle{
+	margin-top: 4vw;
+}
+
+.projSchedule li{
+	margin-top: 2vw;
+}
+.projSchedule_date{
+	width:20%;
+}
+.projSchedule_progress{
+	width:79%;
+}
