@@ -68,7 +68,7 @@ var data_schedule = [
 },{
 	'week':'13',
 	'date':'11/19',
-	'doing':'working session',
+	'doing':'working session<br><a href = "https://docs.google.com/spreadsheets/d/1JCSbr0y21lL88osAe7iRwi9in4Bu1Rn_jJmEYo3HQOA/edit?usp=sharing" target = "_blank">Sign up for meeting</a>',
 	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'14',
