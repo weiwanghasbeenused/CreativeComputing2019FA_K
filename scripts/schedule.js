@@ -53,7 +53,7 @@ var data_schedule = [
 },{
 	'week':'10',
 	'date':'10/29',
-	'doing':'<a href = "https://docs.google.com/presentation/d/14XNEBf4qVyJ4CQ25Rt6Q2g83tDvV73dgXl7kctOFnas/edit?usp=sharing" target = "_blank">CSS 6: Advanced Selector and Responsive CSS</a></br><a href = "https://docs.google.com/presentation/d/1qaBNK1r2Djt1bDisWkfO1_FN07TzAuB7K_DlCv0mcns/edit?usp=sharing" target = "_blank">JavaScript/jQuery 1: Selectors & Actions</a>',
+	'doing':'<a href = "https://docs.google.com/presentation/d/14XNEBf4qVyJ4CQ25Rt6Q2g83tDvV73dgXl7kctOFnas/edit?usp=sharing" target = "_blank">CSS 6: Advanced Selector and Responsive CSS</a>',
 	'toDo':'<a href = "https://docs.google.com/document/d/18qXUoMDh0EIPcnbFIwJV8aOobEXK2e9_5TF4jrARSjU/edit" target = "_blank">M&#252;ller-Brockmann Poster</a>'
 },{
 	'week':'11',
@@ -63,7 +63,7 @@ var data_schedule = [
 },{
 	'week':'12',
 	'date':'11/12',
-	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2: functions 1<br>Documenting websites</a>',
+	'doing':'<a href = "https://docs.google.com/presentation/d/1qaBNK1r2Djt1bDisWkfO1_FN07TzAuB7K_DlCv0mcns/edit?usp=sharing" target = "_blank">JavaScript/jQuery 1: Selectors & Actions</a>',
 	'toDo':'<a href = "https://docs.google.com/document/d/1EKWTbuIUOzEhVoeyvwHyE_58o-WlunszDmdlyvwBpHY/edit?usp=sharing" target = "_blank">Record & Narrative</a>'
 },{
 	'week':'13',
@@ -73,7 +73,7 @@ var data_schedule = [
 },{
 	'week':'14',
 	'date':'11/26',
-	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 3: functions 2</a>',
+	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2: variable and basic operations</a>',
 	'toDo':'Final Documentation'
 },{
 	'week':'15',
