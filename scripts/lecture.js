@@ -63,6 +63,6 @@ var data_lecture = [
 	'infoOne':'10',
 	'infoTwo':'10/29',
 	'title':'JavaScript/jQuery 1: Selectors & Actions',
-	'hyperLink':'https://docs.google.com/presentation/d/14XNEBf4qVyJ4CQ25Rt6Q2g83tDvV73dgXl7kctOFnas/edit?usp=sharing'
+	'hyperLink':'https://docs.google.com/presentation/d/1qaBNK1r2Djt1bDisWkfO1_FN07TzAuB7K_DlCv0mcns/edit?usp=sharing'
 }
 ];
