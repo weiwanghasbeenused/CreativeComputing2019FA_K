@@ -60,9 +60,14 @@ var data_lecture = [
 	'title':'CSS 6: Advanced Selector and Responsive CSS',
 	'hyperLink':'https://docs.google.com/presentation/d/14XNEBf4qVyJ4CQ25Rt6Q2g83tDvV73dgXl7kctOFnas/edit?usp=sharing'
 },{
-	'infoOne':'10',
-	'infoTwo':'10/29',
+	'infoOne':'12',
+	'infoTwo':'11/12',
 	'title':'JavaScript/jQuery 1: Selectors & Actions',
 	'hyperLink':'https://docs.google.com/presentation/d/1qaBNK1r2Djt1bDisWkfO1_FN07TzAuB7K_DlCv0mcns/edit?usp=sharing'
+},{
+	'infoOne':'14',
+	'infoTwo':'11/26',
+	'title':'Documenting Website',
+	'hyperLink':'https://docs.google.com/presentation/d/1sKWMGiOj-IjStW_eEBvDfXhnnrJBcjdTzQUKkxTbMTw/edit?usp=sharing'
 }
 ];

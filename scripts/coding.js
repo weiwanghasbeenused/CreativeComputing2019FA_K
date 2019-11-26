@@ -111,6 +111,11 @@ var data_coding = [
 	'title':'D3.js',
 	'hyperLink':'https://d3js.org/'
 },{
+	'infoOne':'',
+	'infoTwo':'tooltip',
+	'title':'popper.js',
+	'hyperLink':'https://popper.js.org/'
+},{
 	'infoOne':'Websites',
 	'infoTwo':'',
 	'title':'',

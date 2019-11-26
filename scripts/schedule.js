@@ -73,7 +73,7 @@ var data_schedule = [
 },{
 	'week':'14',
 	'date':'11/26',
-	'doing':'<a href = "" target = "_blank">JavaScript/jQuery 2: Variable, Operator and Statement</a>',
+	'doing':'<a href = "https://docs.google.com/presentation/d/1sKWMGiOj-IjStW_eEBvDfXhnnrJBcjdTzQUKkxTbMTw/edit?usp=sharing" target = "_blank">Documenting Website</a>',
 	'toDo':'Final Documentation'
 },{
 	'week':'15',
