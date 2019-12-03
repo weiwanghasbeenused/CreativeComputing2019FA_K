@@ -78,7 +78,7 @@ var data_schedule = [
 },{
 	'week':'15',
 	'date':'12/3',
-	'doing':'Final Critque',
+	'doing':'<a href = "https://docs.google.com/presentation/d/18WLuKDCJ0IXBTyQZNyYdMF2y9BpEysj52TicJifYqU4/edit?usp=sharing">Final Critque</a>',
 	'toDo':''
 }
 ];
