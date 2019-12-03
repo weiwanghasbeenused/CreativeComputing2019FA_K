@@ -156,7 +156,7 @@ ul, ol{
 	text-decoration: none;
 }
 .contentCtner >div{
-	margin-bottom: 5vw;
+	/*margin-bottom: 5vw;*/
 }
 .listItems{
 	display: block;
