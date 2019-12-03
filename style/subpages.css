@@ -5,7 +5,11 @@ h1{
 h3{
 	line-height: 1.2em;
 }
-
+p{
+	font-size: 1.2vw;
+	line-height: 1.5em;
+	font-weight:bold;
+}
 .nav{
 	
   	height:0.5vw;
@@ -13,6 +17,15 @@ h3{
 a{
 	display: inline-block;
 	/*height:auto;*/
+}
+.projDes a{
+	color: rgba(255, 80, 80, 1);;
+}
+.projDes a:hover{
+	text-decoration: underline;
+}
+ul, ol{
+	list-style-type:none;
 }
 .nav>div{
 	display: inline-block;
@@ -24,7 +37,28 @@ a{
 	z-index: 5;
 }
 
+.projDes ol{
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: normal;
+	line-height: 1.2em;
+	margin: 2vw 0 5vw 0;
+	/*padding-left:3vw;*/
+}
 
+.projDes li{
+	margin-bottom: 1.2vw;
+	display:grid;
+	grid-template-columns:3vw auto;
+}
+.schedule_ctner li:first-of-type{
+	border-top:1px solid black;
+}
+.schedule_ctner li{
+	grid-template-columns:7.5vw auto;
+	border-bottom:1px solid black;
+	padding:2vw 2vw 2vw .5vw;
+	margin-bottom: 0;
+}
 .courseTitle{
 	margin-right: 27vw;	
 	
@@ -58,7 +92,7 @@ a{
 	z-index: 10;
 }
 .contentCtner{
-	margin-top: 1.5vw;
+	margin-top: 5vw;
 }
 .contentItems{
 	box-sizing:border-box;
@@ -120,6 +154,9 @@ a{
 }
 .contentCtner a{
 	text-decoration: none;
+}
+.contentCtner >div{
+	margin-bottom: 5vw;
 }
 .listItems{
 	display: block;

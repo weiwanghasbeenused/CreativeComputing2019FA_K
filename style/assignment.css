@@ -4,9 +4,7 @@
 	width:100%;
 
 }
-ul{
-	list-style-type:none;
-}
+
 .projItems{
 	display:grid;
 	grid-template-columns: 5vw auto 10vw; 

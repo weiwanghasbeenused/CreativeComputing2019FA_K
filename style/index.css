@@ -45,6 +45,10 @@ h6{
 	font-weight: normal;
 	font-size: 1.25vw;
 }
+p{
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: normal;
+}
 a{
 	color:black;
 	cursor:pointer;
