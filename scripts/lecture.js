@@ -69,5 +69,10 @@ var data_lecture = [
 	'infoTwo':'11/26',
 	'title':'Documenting Website',
 	'hyperLink':'https://docs.google.com/presentation/d/1sKWMGiOj-IjStW_eEBvDfXhnnrJBcjdTzQUKkxTbMTw/edit?usp=sharing'
+},{
+	'infoOne':'15',
+	'infoTwo':'12/3',
+	'title':'Presentation',
+	'hyperLink':'https://docs.google.com/presentation/d/18WLuKDCJ0IXBTyQZNyYdMF2y9BpEysj52TicJifYqU4/edit?usp=sharing'
 }
 ];
