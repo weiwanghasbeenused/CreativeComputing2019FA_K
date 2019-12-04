@@ -80,5 +80,10 @@ var data_schedule = [
 	'date':'12/3',
 	'doing':'<a href = "https://docs.google.com/presentation/d/18WLuKDCJ0IXBTyQZNyYdMF2y9BpEysj52TicJifYqU4/edit?usp=sharing">Final Critque</a>',
 	'toDo':''
+},{
+	'week':'16',
+	'date':'12/10',
+	'doing':'<a href = "https://docs.google.com/spreadsheets/d/1kiaHqOWKDoh6BOry8oiJjQPMtePrHpRR_FIMGYsvvOk/edit?usp=sharing">Sign up for the meeting</a>',
+	'toDo':''
 }
 ];
